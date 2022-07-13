@@ -1,6 +1,9 @@
+
 plugins {
-    id 'java'
+    id 'application'
 }
+
+mainClassName = 'org.webbanditten.server.Server'
 
 version '1.0-SNAPSHOT'
 
